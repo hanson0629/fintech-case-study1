@@ -1,5 +1,5 @@
 # fintech-case-study1: Scotiabank
-![scotia-image](c/Users/15159/Downloads/scotiabank.jpg)
+![scotia-image](scotiabank.jpg)
 ## Domain: Payment/Billing
 ### Scotiabank in the Fintech Domain of payments and billing
 - Establish on March 30, 1832
