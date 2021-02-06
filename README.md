@@ -6,3 +6,5 @@
 - Became the first chartered bank in Nova Scotia and held their first shareholders' meeting at the Merchants Exchange Coffee House on May 10, 1832.
 
 - Competitors:RBC, DT, etc...
+
+* blablabla
